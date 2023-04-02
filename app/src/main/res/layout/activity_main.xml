@@ -23,7 +23,7 @@
         android:layout_height="64dp"
         android:src="@drawable/option"
         tools:layout_editor_absoluteX="276dp"
-        tools:layout_editor_absoluteY="0dp"
+        tools:layout_editor_absoluteY="1dp"
         tools:ignore="MissingConstraints">
 
     </ImageView>
